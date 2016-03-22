@@ -1,0 +1,28 @@
+name: klk
+favicon: null
+layout_spectrum: 0.2803847691975534
+typography_spectrum: 0.43358971667476
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.49733314756304026
+  lightness: 0.973988443845883
+  saturation: 0.06410046969540417
+  rhythmicContrast: 0.7550318234134465
+purpose: []
